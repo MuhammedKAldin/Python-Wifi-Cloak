@@ -13,6 +13,9 @@ Wifi Cloak created using Python
 </h2>
 
 * Wifi Cloak is a program that recalls all Wifi Passwords that had been used on your computer 
+- Scan Wifi => Retrieves all wifi SSIDS with Passwords that your pc has logged into them
+- Find Wifi Name => Retrieves Only Wifi Profiles that matches your input
+
 </h1>
 
 <h2>
