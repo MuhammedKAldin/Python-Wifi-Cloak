@@ -2,10 +2,18 @@
 Wifi Cloak created using Python
 
 <h2>
+  Warning :
+</h2>
+
+* This Tool is for Educational and Safe purposes only, do not use it to harm others !
+</h1>
+
+<h2>
   Usage :
 </h2>
 
-* Wifi Cloak is a program that recalls all Wifi Passwords that had been used on your computer
+* Wifi Cloak is a program that recalls all Wifi Passwords that had been used on your computer 
+</h1>
 
 <h2>
   Preview :
